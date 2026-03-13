@@ -360,5 +360,6 @@ MigrationBackup/
 .ionide/
 
 # Fody - auto-generated XML schema
-FodyWeavers.xsdeverglades_rpg
+FodyWeavers.xsd
+everglades_rpg
 everglades_rpg.exe
