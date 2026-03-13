@@ -1,0 +1,1 @@
+Just a simple console-based role-playing game written in C++. The player controls a ranger exploring the Everlgades while encountering random events, managing health, and eventually facing a boss battle. The project was made to practice programming in C++ and with concepts relating to conditional logic, random events, and game state management
